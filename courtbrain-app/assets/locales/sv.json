@@ -1,0 +1,278 @@
+{
+  "component_sports_breadcrumb": {
+    "t2": "Sporter",
+    "t1": "Hem"
+  },
+  "search": {
+    "meta_description": "På denna sidan kan du hitta alla anläggningar",
+    "t1": "Hittade anläggningar",
+    "t2": "På denna sidan kan du hitta alla anläggningar",
+    "title": "Hitta anläggningar",
+    "meta_keywords": "anläggningar, sporter"
+  },
+  "component_rating": {
+    "t3": "betyg på Google",
+    "t1": "recensioner"
+  },
+  "component_filter_button": {
+    "t1": "Filter"
+  },
+  "privacy_policy": {
+    "t2": "<p>På CourtBrain.com är vi dedikerade till att skydda användarnas integritet. Denna integritetspolicy beskriver vilken typ av användardata vi samlar in, varför vi samlar in den, hur vi använder den, och de åtgärder vi vidtar för att skydda den.\n</p>\n\n<h4>Typer av användardata som samlas in:</h4>\n\n<ul>\n<li>\n<strong>IP-adresser::</strong>\n<p>Vi samlar in IP-adresser för att förstå användarnas geografiska plats. Denna information hjälper oss att förbättra relevansen och tillgängligheten av våra tjänster.</p>\n</li>\n\n<li>\n<strong>Användarinformation:</strong>\n<p>När användare interagerar med vår webbplats kan vi samla in information såsom preferenser, språkinställningar och annan data som förbättrar användarupplevelsen.</p>\n</li>\n</ul>\n\n<h4>Syfte med datainsamling:</h4>\n\n<p>Den data vi samlar in används för följande ändamål:</p>\n\n<ul>\n<li>\n<strong>Förbättring av användarupplevelsen:</strong>\n<p>Att förstå användarpreferenser hjälper oss att anpassa våra tjänster för att erbjuda en mer personlig och användarvänlig upplevelse.</p>\n</li>\n\n<li>\n<strong>Analys:</strong>\n<p>Vi använder insamlad data för analytiska ändamål för att förbättra prestanda och funktionalitet på vår webbplats.</p>\n</li>\n</ul>\n\n<h4>Delning av användardata med tredje parter:</h4>\n\n<p>\nVi delar inte användardata med tredje parter om det inte krävs enligt lag eller med användarens uttryckliga samtycke. Vid eventuella partnerskap eller samarbeten ser vi till att tredje parter följer strikta standarder för dataskydd.\n</p>\n\n<h4>Lagringsperiod:</h4>\n\n<p>\nVi behåller användardata endast under den tid som är nödvändig för att uppfylla syftena som anges i denna policy, om inte en längre lagringsperiod krävs eller är tillåten enligt lag.\n</p>\n\n<h4>Dataskyddsåtgärder:</h4>\n\n<p>För att skydda användardata implementerar vi följande åtgärder:</p>\n\n<ul>\n<li>\n<strong>Säker lagring:</strong>\n<p>Användardata lagras säkert med användning av kryptering och åtkomstkontroller för att förhindra obehörig åtkomst.</p>\n</li>\n\n<li>\n<strong>Åtkomstrestriktioner:</strong>\n<p>Åtkomst till användardata är begränsad till behörig personal endast, och de är bundna av sekretessförpliktelser.</p>\n</li>\n\n<li>\n<strong>Regelbundna säkerhetsrevisioner:</strong>\n<p>Vi genomför regelbundna säkerhetsrevisioner för att identifiera och åtgärda potentiella sårbarheter i våra system.</p>\n</li>\n\n<li>\n<strong>Användarutbildning:</strong>\n<p>Vi utbildar vårt team om dataskyddspraxis för att säkerställa ansvarsfull hantering av användarinformation.</p>\n</li>\n</ul>\n\n<p>Vi granskar och uppdaterar kontinuerligt våra integritetspraxis för att följa utvecklingen av lagkrav och teknologiska framsteg. Genom att använda CourtBrain.com godkänner du villkoren som beskrivs i denna integritetspolicy. Vid eventuella frågor eller bekymmer angående din integritet, kontakta oss på admin@courtbrain.com. Din integritet är viktig för oss, och vi är engagerade i att behålla förtroendet och självförtroendet hos våra användare.</p>\nLäs om vår integritetspolicy",
+    "title": "Integritetspolicy",
+    "meta_keywords": "integritetspolicy, användare",
+    "meta_description": "Läs vår integritetspolicy",
+    "t1": "Integritetspolicy"
+  },
+  "component_legal_breadcrumb": {
+    "t1": "Hem",
+    "t2": "Legalt"
+  },
+  "sitemap_facilities": {
+    "meta_description": "Webbplatskarta för anläggningar",
+    "meta_keywords": "Webbplatskarta, anläggningar",
+    "t1": "Webbplatskarta för anläggningar",
+    "title": "Webbplatskarta för anläggningar"
+  },
+  "facilities_city_country": {
+    "meta_keywords": "anläggningar, {city}, {country}",
+    "meta_description": "Anläggningar i {city}/{country}",
+    "title": "Anläggningar i {city}/{country}",
+    "t2": "Anläggningar",
+    "t1": "{city}/{country}"
+  },
+  "component_offers_breadcrumb": {
+    "t2": "Erbjudanden",
+    "t1": "Hem"
+  },
+  "offer": {
+    "meta_keywords": "{seo_meta_keywords}",
+    "title": "{seo_title}",
+    "meta_description": "{seo_meta_description}"
+  },
+  "component_layout_searchcontainer": {
+    "t1": "Adress, stad, klubb",
+    "t2": "Låt oss hitta din nästa bana",
+    "t3": "Vad är din sport?"
+  },
+  "facilities_city_country_group_province": {
+    "t1": "{province} i {city}/{country}",
+    "title": "{province} i {city}/{country}",
+    "meta_description": "{province} i {city}/{country}",
+    "meta_keywords": "{province}, {city}, {country}"
+  },
+  "component_article_breadcrumb": {
+    "t2": "Artiklar",
+    "t1": "Hem"
+  },
+  "component_facility_missing": {
+    "t2": "Kontakta oss",
+    "t1": "Saknar du en anläggning?"
+  },
+  "not_found": {
+    "t1": "Sidan hittades inte",
+    "t2": "Det gick inte att hitta den begärda sidan."
+  },
+  "component_facility_item": {
+    "t2": "Book",
+    "t1": "Info om klubben",
+    "t3": "Inga lediga tider"
+  },
+  "component_footer": {
+    "t4": "Hjälp",
+    "t3": "Kontakt",
+    "t2": "Om",
+    "t5": "Legalt",
+    "t6": "Webbplatskarta",
+    "t1": "© 2024 CourtBrain"
+  },
+  "sitemaps": {
+    "t2": "Anläggningar",
+    "t1": "Webbplatskartor",
+    "t3": "Grupper",
+    "meta_keywords": "Webbplatskartor",
+    "meta_description": "Webbplatskartor",
+    "title": "Webbplatskarta"
+  },
+  "component_facilities_breadcrumb": {
+    "t2": "",
+    "t1": "Hem"
+  },
+  "home": {
+    "meta_description": "Courtbrain är en oberoende sökmotor för  för racketsportanläggningar. Hitta dina favoritplatser för tennis, padel, pickleball eller andra sporter idag, oavsett bokningsplattform, eller plats!",
+    "t1": "Racketspelarnas liv är snart mycket enklare. Håll utkik!",
+    "t2": "",
+    "t5": "News & Know-how",
+    "t3": "Populära anläggningar",
+    "meta_keywords": "courtbrain, padel, tennis",
+    "t6": "Utforska klubbar under tiden!",
+    "title": "Hitta tennis-, pickleball- och padelbanor nära dig eller på önskad plats. ",
+    "t4": "Visa alla"
+  },
+  "cookies": {
+    "meta_keywords": "cookies",
+    "title": "Cookies",
+    "meta_description": "Cookies på Courtbrain",
+    "t1": "Cookies",
+    "t2": "<p>På CourtBrain.com använder vi cookies och liknande tekniker för att förbättra din surfupplevelse. Cookies är små textfiler som lagras på din enhet när du besöker vår webbplats. De tjänar olika syften, och vi vill säkerställa att du har en tydlig förståelse för hur vi använder dem.</p>\n\n<h4>Syftet med cookies:</h4>\n\n<ul>\n<li>\n<strong>Nödvändiga cookies:</strong>\n<p>Dessa cookies är nödvändiga för den grundläggande funktionaliteten på vår webbplats. De gör det möjligt för dig att navigera på webbplatsen och använda viktiga funktioner, som att komma åt säkra områden. Utan dessa cookies kanske vissa tjänster inte är tillgängliga.</p>\n</li>\n\n<li>\n<strong>Analytiska cookies:</strong>\n<p>Vi använder analytiska cookies för att samla information om hur besökare interagerar med vår webbplats. Detta hjälper oss att analysera och förbättra prestandan på vår webbplats, vilket gör den mer användarvänlig. Uppgifterna som samlas in är anonymiserade och identifierar dig inte personligen.</p>\n</li>\n\n<li>\n<strong>Preferenscookies:</strong>\n<p>Dessa cookies tillåter oss att komma ihåg dina preferenser och val, såsom språkinställningar eller region. Detta säkerställer en mer personlig och bekväm surfupplevelse.</p>\n</li>\n\n<li>\n<strong>Marknadsföringscookies:</strong>\n<p>Vi kan använda marknadsföringscookies för att spåra och analysera effektiviteten av våra reklamkampanjer. Dessa cookies hjälper oss att skräddarsy vårt innehåll och våra annonser för att vara mer relevanta för dina intressen.</p>\n</li>\n\n<li>\n<strong>Cookie-samtycke:</strong>\n<p>Vid ditt första besök på CourtBrain.com kommer du att presenteras med en cookie-banner. Denna banner ger dig möjlighet att acceptera eller avvisa användningen av cookies, i enlighet med tillämplig lagstiftning. Du kan när som helst hantera dina cookie-inställningar via din webbläsarinställningar.</p>\n</li>\n</ul>\n\n<p>Observera att vissa funktioner på vår webbplats kan vara beroende av användningen av cookies. Genom att välja att acceptera cookies godkänner du insamlingen och behandlingen av dina uppgifter för de ändamål som nämns ovan.</p>\n\n<p>För mer information om hur vi hanterar dina personuppgifter, se vår sekretesspolicy.</p>\n\n<p>Om du har några frågor eller funderingar kring vår användning av cookies, kontakta oss gärna på admin@courtbrain.com. Din integritet är viktig för oss. </p>"
+  },
+  "component_facility_opening_hours": {
+    "t1": "Stängt, ",
+    "t4": "stänger {time}",
+    "t5": "öppnar {time}",
+    "t6": "Stängt ingen mer information",
+    "t3": "Permanent stängd",
+    "t2": "Öppet, "
+  },
+  "articles": {
+    "meta_keywords": "artiklar",
+    "title": "Våra artiklar",
+    "meta_description": "Läs artiklar på Courtbrain",
+    "t1": "Artiklar"
+  },
+  "legal": {
+    "t1": "Legalt",
+    "t2": "Här hittar du vår information om legala saker",
+    "t3": "Cookies",
+    "meta_description": "På denna sida kan du hitta juridiska dokument",
+    "meta_keywords": "legalt",
+    "title": "Legalt",
+    "t5": "Villkor",
+    "t4": "Integritetspolicy"
+  },
+  "facilities_group": {
+    "meta_description": "{seo_meta_description}",
+    "title": "{seo_title}",
+    "meta_keywords": "{seo_meta_keywords}",
+    "t1": "{title}"
+  },
+  "offers": {
+    "title": "Bekvämligheter",
+    "meta_description": "Bekvämligheter",
+    "t1": "Bekvämligheter",
+    "meta_keywords": "bekvämligheter"
+  },
+  "component_search_hits": {
+    "t1": "Resultat: {count}"
+  },
+  "support": {
+    "title": "Support FAQ",
+    "meta_description": "Supportfrågor på Courtbrain",
+    "t1": "Hjälp",
+    "meta_keywords": "hjälp",
+    "t2": "<ul>\n<li>\n<strong>Vilka sporter finns på er webbplats?</strong>\n<p>I första hand alla typer av racketsporter, men andra sporter kan också förekomma. Vi skräddarsyr vår plattform för att rymma faciliteter så att de kan visa upp hela sitt utbud av sporter. Du kan filtrera resultaten efter den specifika sport du är intresserad av. Om en ny racketsport dyker upp kommer CourtBrain säkerligen att finnas där.</p>\n</li>\n\n<li>\n<strong>Är det möjligt att boka banor direkt via webbplatsen?</strong>\n<p>Nej, CourtBrain är inte ett bokningssystem. Vissa faciliteter kan erbjuda direktbokning via deras bokningsplattform, andra via deras hemsida. Vi presenterar de bokningsalternativ som finns på anläggningens sida här på CourtBrain.</p>\n</li>\n\n<li>\n<strong>Hur använder jag sökfunktionen för att hitta en racketsportanläggning?</strong>\n<p>Om du vill söka efter en anläggning använder du sökfältet och filtrerar resultaten efter sport, plats eller andra relevanta kriterier.</p>\n</li>\n\n<li>\n<strong>Kan jag se recensioner från andra användare om faciliteterna?</strong>\n<p>Ja, vi hämtar betyg och recensioner från andra plattformar, som Google.</p>\n</li>\n\n<li>\n<strong>Hur uppdateras informationen om anläggningarna på webbplatsen?</strong>\n<p>Vi strävar efter att hålla informationen så aktuell som möjligt. Anläggningsadministratörer kan uppdatera sina listor, och vi övervakar och verifierar regelbundet informationen.</p>\n</li>\n\n<li>\n<strong>Är det möjligt att lägga till en ny racketsportanläggning på webbplatsen?</strong>\n<p>Ja, du kan föreslå en ny anläggning genom att kontakta oss på hello@courtbrain.com.</p>\n</li>\n\n<li>\n<strong>Hur kan jag kontakta en racketidrottsanläggning för att ställa frågor eller göra en bokning?</strong>\n<p>Kontaktinformation, inklusive telefonnummer och e-postadress, finns på varje anläggnings sida.</p>\n</li>\n\n<li>\n<strong>Är det möjligt att få aviseringar om specialerbjudanden eller evenemang på racketidrottsanläggningar?</strong>\n<p>Ja, om du prenumererar på vårt nyhetsbrev kan du få information om specialerbjudanden och evenemang från anläggningar.</p>\n</li>\n\n<li>\n<strong>Finns det en mobilapp för att använda tjänsten?</strong>\n<p>För närvarande erbjuder vi en mobilanpassad webbplats. Vi kommer dock att utveckla en mobilapp i framtiden.</p>\n</li>\n\n<li>\n<strong>Vad ska jag göra om jag stöter på problem med webbplatsen eller har tekniska frågor?</strong>\n<p>Kontakta vår kundtjänst via det medföljande kontaktformuläret eller supportens e-postadress för att få hjälp med eventuella tekniska frågor eller problem.</p>\n</li>\n</ul>"
+  },
+  "about": {
+    "t5": "En dag, när en av grundarna blev trött på att navigera mellan olika webbplatser för att hitta tillgängliga anläggningar och klubbinfo, inträffade en ljusglimt. Varför inte konsolidera alla dessa system till ett enda? På så sätt är anläggningar fria att använda vilket system de föredrar utan rädsla för att gå miste om potentiella spelare. Samtidigt kan spelare undvika att slösa onödig tid på att hitta sina önskade speltider. Det är en Win-Win!",
+    "t3": "Vår story",
+    "t1": "Om Courtbrain",
+    "meta_keywords": "courtbrain, om, berättelse",
+    "meta_description": "Historien om Courtbrain",
+    "t4": "Med ökningen av racketsportentusiaster har det uppstått effektiva lösningar för att boka speltider. Alternativen är dock många och varierade, beroende på anläggning, sport, land och stad.\n",
+    "t2": "CourtBrain är under ständig evolution. Den version du ser idag är inte densamma du kommer se imorgon. Nya anläggningar läggs till varje dag. Saknas just din favorit? Tveka inte att kontakta oss så ser vi till att den snabbt kommer upp på. \nNya, mer avancerade funktioner är också under utveckling och vi hoppas snart kunna presentera den färdiga versionen av CourtBrain - For the player.  \n\nCourtBrain™ har sitt ursprung i passionen för racketsporter och ett starkt åtagande att göra det enklare för spelare att hitta tillgängliga anläggningar. Visionen är att erbjuda en oberoende sökmotor som prioriterar användaren, oavsett plattform, plats eller bokningsmetod de föredrar. Strävar efter att skapa den mest flexibla, responsiva och sömlösa lösningen på marknaden, med kärnvärden som kompass för dess identitet. Oberoende/opartisk, Alltid sätta användaren först, vara flexibel, smidig och mångsidig.",
+    "title": "Om Courtbrain"
+  },
+  "article": {
+    "title": "{seo_title}",
+    "meta_description": "{seo_meta_description}",
+    "meta_keywords": "{seo_meta_keywords}"
+  },
+  "sports": {
+    "meta_description": "Sporter",
+    "t1": "Sporter",
+    "meta_keywords": "sporter",
+    "title": "Sporter"
+  },
+  "contact": {
+    "title": "Kontakta oss",
+    "meta_keywords": "Kontakta oss",
+    "meta_description": "Kontakta oss",
+    "t2": "Maila oss på hello@courtbrain.com",
+    "t1": "Kontakt"
+  },
+  "component_redirect_button": {
+    "t1": "Boka",
+    "t3": "Ingen logo",
+    "t2": "Hos {name}"
+  },
+  "facilities_city_country_group_sport": {
+    "t1": "{sport} i {city}/{country}",
+    "meta_description": "{sport} i {city}/{country}",
+    "meta_keywords": "{sport}, {city}, {country}",
+    "title": "{sport} i {city}/{country}"
+  },
+  "sport": {
+    "title": "{seo_title}",
+    "meta_keywords": "{seo_meta_keywords}",
+    "meta_description": "{seo_meta_description}"
+  },
+  "component_layout_header": {
+    "t11": "Español",
+    "t10": "FAQ",
+    "t4": "English",
+    "t3": "Språk",
+    "t7": "Anläggningar",
+    "t6": "Adress, stad, klubb, bekvämligheter...",
+    "t1": "",
+    "t8": "Om oss",
+    "t5": "Svenska",
+    "t2": "Artiklar",
+    "t9": "Kontakt"
+  },
+  "sitemap_groups": {
+    "meta_keywords": "webbplatskarta, grupper",
+    "title": "Webbplatskarta för grupper",
+    "meta_description": "Webbplatskarta för grupper",
+    "t1": "Webbplatskarta för grupper"
+  },
+  "terms": {
+    "meta_description": "Användarvillkor",
+    "title": "Användarvillkor",
+    "t2": "<p>Välkommen till CourtBrain.com. Genom att använda vår webbplats samtycker du till att följa och vara bunden av följande användarvillkor. Läs dessa villkor noggrant innan du använder vår webbplats.</p>\n\n<ul>\n<li>\n<strong>Godkännande av villkor:</strong>\n<p>Genom att komma åt eller använda CourtBrain.com bekräftar du att du har läst, förstått och samtycker till att vara bunden av dessa användarvillkor. Om du inte godkänner någon del av dessa villkor, använd inte vår webbplats.</p>\n</li>\n\n<li>\n<strong>Användaransvar:</strong>\n<p>Användare är ansvariga för sin användning av CourtBrain.com och måste följa alla tillämpliga lagar och förordningar.\nAnvändare är förbjudna att delta i någon aktivitet som kan störa eller störa webbplatsens funktion.</p>\n</li>\n\n<li>\n<strong>Användarens skyldigheter:</strong>\n<p>Användare samtycker till att inte ladda upp, lägga upp eller överföra något innehåll som är olagligt, hotfullt, kränkande, ärekränkande, integritetskränkande eller på annat sätt stötande. Användare är ansvariga för att upprätthålla konfidentialiteten för sin kontoinformation och är ansvariga för alla aktiviteter som utförs via deras konto.</p>\n</li>\n\n<li>\n<strong>Immateriell egendom:</strong>\n<p>Allt innehåll på CourtBrain.com, inklusive text, grafik, logotyper, bilder och programvara, tillhör CourtBrain eller dess innehållsleverantörer och skyddas av internationella upphovsrättslagar.</p>\n</li>\n\n<li>\n<strong>Avslutning av åtkomst:</strong>\n<p>CourtBrain förbehåller sig rätten att avsluta eller begränsa åtkomsten till webbplatsen, efter eget gottfinnande, för användare som bryter mot dessa användarvillkor.\nCourtBrain kan vidta lämpliga rättsliga åtgärder mot användare som deltar i aktiviteter som bryter mot lagen eller dessa villkor.</p>\n</li>\n\n<li>\n<strong>Ändringar av villkoren:</strong>\n<p>CourtBrain förbehåller sig rätten att ändra, ändra eller ersätta dessa användarvillkor när som helst. Det är användarens ansvar att regelbundet söka efter uppdateringar.</p>\n</li>\n\n<li>\n<strong>Gällande lag:</strong>\n<p>Dessa användarvillkor styrs av och tolkas i enlighet med lagarna i Sverige. Alla tvister som uppstår från eller i samband med dessa villkor ska vara föremål för den exklusiva jurisdiktionen för domstolen i Sverige.</p>\n</li>\n</ul>\n\n<p>Genom att använda CourtBrain.com samtycker du till att följa dessa användarvillkor. Om du har några frågor eller funderingar om dessa villkor, vänligen kontakta oss på admin@courtbrain.com Tack för att du använder CourtBrain.com.</p>",
+    "t1": "Användarvillkor",
+    "meta_keywords": "användarvillkor"
+  },
+  "component_search_filter_bar": {
+    "t7": "Erbjuder",
+    "t4": "Sporter",
+    "t6": "Visa färre",
+    "t1": "Filter",
+    "t5": "Visa alla",
+    "t8": "Attribut",
+    "t3": "Visa {facilityCount} klubbar",
+    "t2": "Rensa allt",
+    "t9": "Välj en tid"
+  },
+  "component_search_box": {
+    "t1": "Sök",
+    "t3": "Platser",
+    "t2": "Anläggningar"
+  },
+  "facilities_city_country_group_province_sport": {
+    "meta_description": "{sport} i {city}/{country}/{province}",
+    "t1": "{sport} i {city}/{country}/{province}",
+    "meta_keywords": "{sport}, {city}, {country}, {province}",
+    "title": "{sport} i {city}/{country}/{province}"
+  },
+  "facilities_city_country_group_province_facility": {
+    "meta_description": "{seo_meta_description}",
+    "t5": "Sporter som anläggningen tillhandahåller",
+    "t10": "Kontakt",
+    "t8": "Arbetar du för denna klubb? Hantera detta konto!",
+    "t1": "Hitta lediga tider på {name}",
+    "t3": "Information",
+    "title": "{seo_title}",
+    "t2": "Det finns {count} {count, plural, =1 {sport} other {sporter}} på denna anläggning",
+    "t4": "Denna anläggning erbjuder:",
+    "meta_keywords": "{seo_meta_keywords}",
+    "t7": " banor",
+    "t13": "Instagram",
+    "t11": "Webbplats",
+    "t12": "Facebook",
+    "t6": "Var du spelar:"
+  },
+  "component_sitemap_breadcrumb": {
+    "t1": "Hem",
+    "t2": "Webbplatskartor"
+  }
+}

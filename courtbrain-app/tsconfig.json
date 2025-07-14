@@ -12,7 +12,7 @@
       "_services/*": ["./services/*"],
       "_constants/*": ["./constants/*"],
       "_types/*": ["./types/*"],
-      "assets/*": ["./assets/*"]
+      "_assets/*": ["./assets/*"]
     }
   },
   "include": [

@@ -1,0 +1,278 @@
+{
+  "component_sports_breadcrumb": {
+    "t2": "Sports",
+    "t1": "Home"
+  },
+  "search": {
+    "meta_description": "On this page you can find our clubs",
+    "t1": "Found clubs",
+    "t2": "On this page you can find all clubs",
+    "title": "Find clubs",
+    "meta_keywords": "clubs, sports"
+  },
+  "component_rating": {
+    "t3": "rating on Google",
+    "t1": "reviews"
+  },
+  "component_filter_button": {
+    "t1": "Filter"
+  },
+  "privacy_policy": {
+    "t2": "<p>At CourtBrain.com, we are committed to safeguarding the privacy of our users. This Privacy Policy outlines the types of user data we collect, why we collect it, how we use it, and the measures we take to protect it.</p>\n\n<h4>Types of User Data Collected:</h4>\n\n<ul>\n<li>\n<strong>IP Addresses:</strong>\n<p>We collect IP addresses to understand the geographic location of our users. This information helps us improve the relevance and accessibility of our services.</p>\n</li>\n\n<li>\n<strong>User Information:</strong>\n<p>When users interact with our website, we may collect information such as preferences, language settings, and other data that enhances the user experience.</p>\n</li>\n</ul>\n\n<h4>Purpose of Data Collection:</h4>\n\n<p>The data we collect is used for the following purposes:</p>\n\n<ul>\n<li>\n<strong>Improving User Experience:</strong>\n<p>Understanding user preferences helps us tailor our services to provide a more personalized and user-friendly experience.</p>\n</li>\n\n<li>\n<strong>Analytics:</strong>\n<p>We utilize collected data for analytical purposes, enabling us to enhance the performance and functionality of our website.</p>\n</li>\n</ul>\n\n<h4>Sharing User Data with Third Parties:</h4>\n\n<p>\nWe do not share user data with third parties unless required by law or with explicit user consent. In the event of any partnerships or collaborations, we ensure that third parties adhere to stringent data protection standards.\n</p>\n\n<h4>Retention Period:</h4>\n\n<p>\nWe retain user data only for the duration necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law.\n</p>\n\n<h4>Data Protection Measures:</h4>\n\n<p>To safeguard user data, we implement the following measures:</p>\n\n<ul>\n<li>\n<strong>Secure Storage:</strong>\n<p>User data is stored securely, employing encryption and access controls to prevent unauthorized access.</p>\n</li>\n\n<li>\n<strong>Access Restrictions:</strong>\n<p>Access to user data is restricted to authorized personnel only, and they are bound by confidentiality obligations.</p>\n</li>\n\n<li>\n<strong>Regular Security Audits:</strong>\n<p>We conduct regular security audits to identify and address potential vulnerabilities in our systems.</p>\n</li>\n\n<li>\n<strong>User Education:</strong>\n<p>We educate our team on data protection practices to ensure the responsible handling of user information.</p>\n</li>\n</ul>\n\n<p>We continuously review and update our privacy practices to align with evolving legal requirements and technological advancements. By using CourtBrain.com, you agree to the terms outlined in this Privacy Policy. For any questions or concerns regarding your privacy, please contact us at admin@courtbrain.com. Your privacy is important to us, and we are committed to maintaining the trust and confidence of our users.</p>",
+    "title": "Privacy Policy",
+    "meta_keywords": "privacy policy, users",
+    "meta_description": "Read our privacy policy",
+    "t1": "Privacy Policy"
+  },
+  "component_legal_breadcrumb": {
+    "t1": "Home",
+    "t2": "Legal"
+  },
+  "sitemap_facilities": {
+    "meta_description": "Sitemaps for facilities",
+    "meta_keywords": "sitemaps, facilities",
+    "t1": "Sitemaps for facilities",
+    "title": "Sitemaps for clubs"
+  },
+  "facilities_city_country": {
+    "meta_keywords": "facilities, {city}, {country}",
+    "meta_description": "Facilities in {city}/{country}",
+    "title": "Facilities in {city}/{country}",
+    "t2": "Facilities",
+    "t1": "{city}/{country}"
+  },
+  "component_offers_breadcrumb": {
+    "t2": "Amenities",
+    "t1": "Home"
+  },
+  "offer": {
+    "meta_keywords": "{seo_meta_keywords}",
+    "title": "{seo_title}",
+    "meta_description": "{seo_meta_description}"
+  },
+  "component_layout_searchcontainer": {
+    "t1": "Address, city, club",
+    "t2": "Let's find your next court",
+    "t3": "What's your sport?"
+  },
+  "facilities_city_country_group_province": {
+    "t1": "{province} in {city}/{country}",
+    "title": "{province} in {city}/{country}",
+    "meta_description": "{province} in {city}/{country}",
+    "meta_keywords": "{province}, {city}, {country}"
+  },
+  "component_article_breadcrumb": {
+    "t2": "Articles",
+    "t1": "Home"
+  },
+  "component_facility_missing": {
+    "t2": "Contact us",
+    "t1": "Missing a facility?"
+  },
+  "not_found": {
+    "t1": "Page not found",
+    "t2": "Could not find requested page."
+  },
+  "component_facility_item": {
+    "t2": "Book",
+    "t1": "Club details",
+    "t3": "No available timeslots"
+  },
+  "component_footer": {
+    "t4": "Support",
+    "t3": "Contact",
+    "t2": "About",
+    "t5": "Legal",
+    "t6": "Sitemaps",
+    "t1": "© 2024 CourtBrain"
+  },
+  "sitemaps": {
+    "t2": "Facilities",
+    "t1": "Sitemaps",
+    "t3": "Groups",
+    "meta_keywords": "Sitemaps",
+    "meta_description": "Sitemaps",
+    "title": "Sitemaps"
+  },
+  "component_facilities_breadcrumb": {
+    "t2": "",
+    "t1": "Home"
+  },
+  "home": {
+    "meta_description": "Courtbrain is an independent search engine for racket sport facilities,  Find your favourite venues for tennis, padel, pickleball or other sports, regardless the booking platform, the location or the method of reservation. \n",
+    "t1": "Players' lives are about to get much easier. Stay tuned!",
+    "t2": "",
+    "t5": "News & Know-how",
+    "t3": "Popular clubs",
+    "meta_keywords": "padel, tennis, pickleball",
+    "t6": "Meanwhile, explore clubs!",
+    "title": "Find padel, tennis, or pickleball courts near you or at your desired location.",
+    "t4": "Show all"
+  },
+  "cookies": {
+    "meta_keywords": "cookies",
+    "title": "Cookies",
+    "meta_description": "Cookies on Courtbrain",
+    "t1": "Cookies",
+    "t2": "<p>At CourtBrain.com, we use cookies and similar technologies to enhance your browsing experience. Cookies are small text files that are stored on your device when you visit our website. They serve various purposes, and we want to ensure that you have a clear understanding of how we use them.</p>\n\n<h4>Purpose of Cookies:</h4>\n\n<ul>\n<li>\n<strong>Essential Cookies:</strong>\n<p>These cookies are necessary for the basic functionality of our website. They enable you to navigate the site and use essential features, such as accessing secure areas. Without these cookies, some services may not be available.</p>\n</li>\n\n<li>\n<strong>Analytical Cookies:</strong>\n<p>We use analytical cookies to gather information about how visitors interact with our website. This helps us analyze and improve the performance of our site, making it more user-friendly. The data collected is anonymized and does not personally identify you.</p>\n</li>\n\n<li>\n<strong>Preference Cookies:</strong>\n<p>These cookies allow us to remember your preferences and choices, such as language preferences or region. This ensures a more personalized and convenient browsing experience.</p>\n</li>\n\n<li>\n<strong>Marketing Cookies:</strong>\n<p>We may use marketing cookies to track and analyze the effectiveness of our promotional campaigns. These cookies help us tailor our content and advertisements to be more relevant to your interests.</p>\n</li>\n\n<li>\n<strong>Cookie Consent:</strong>\n<p>Upon your first visit to CourtBrain.com, you will be presented with a cookie banner. This banner provides you with the option to accept or reject the use of cookies, in compliance with applicable legislation. You can manage your cookie preferences through your browser settings at any time.</p>\n</li>\n</ul>\n\n<p>Please note that certain features of our website may rely on the use of cookies. By choosing to accept cookies, you agree to the collection and processing of your data for the purposes mentioned above.</p>\n\n<p>For more information about how we handle your personal data, please refer to our Privacy Policy.</p>\n\n<p>If you have any questions or concerns about our use of cookies, feel free to contact us at admin@courtbrain.com. Your privacy is important for us. </p>"
+  },
+  "component_facility_opening_hours": {
+    "t1": "Closed, ",
+    "t4": "closes {time}",
+    "t5": "opens  {time}",
+    "t6": ",no further information",
+    "t3": "Permanently closed",
+    "t2": "Open, "
+  },
+  "articles": {
+    "meta_keywords": "articles",
+    "title": "Our articles",
+    "meta_description": "Read articles at Courtbrain",
+    "t1": "Articles"
+  },
+  "legal": {
+    "t1": "Legal",
+    "t2": "Here you will find our information about legal matters",
+    "t3": "Cookies",
+    "meta_description": "On this page you can find legal documents",
+    "meta_keywords": "legal",
+    "title": "Legal",
+    "t5": "Terms",
+    "t4": "Privacy Policy"
+  },
+  "facilities_group": {
+    "meta_description": "{seo_meta_description}",
+    "title": "{seo_title}",
+    "meta_keywords": "{seo_meta_keywords}",
+    "t1": "{title}"
+  },
+  "offers": {
+    "title": "Amenities",
+    "meta_description": "Amenities",
+    "t1": "Amenities",
+    "meta_keywords": "amenities"
+  },
+  "component_search_hits": {
+    "t1": "Results: {count}"
+  },
+  "support": {
+    "title": "Support FAQ",
+    "meta_description": "Support questions on Courtbrain",
+    "t1": "Support",
+    "meta_keywords": "support",
+    "t2": "<ul>\n<li>\n<strong>What sports can be found on your website?</strong>\n<p>Primarily, all types of racket sports, but other sports may also be featured. We tailor our platform to accommodate facilities so they can showcase their full range of sports. You can filter the results according to the specific sport you are interested in. If a new racket sport emerges, CourtBrain will certainly be there.</p>\n</li>\n\n<li>\n<strong>Is it possible to book courts directly through the website?</strong>\n<p>No, CourtBrain is not a booking system. Some facilities may offer direct booking through their booking platform, others through their website. We present the booking options available on the facility's page here on CourtBrain.</p>\n</li>\n\n<li>\n<strong>How do I use the search function to find a racket sports facility?</strong>\n<p>To search for a facility, use the search bar and filter the results by sport, location, or other relevant criteria.</p>\n</li>\n\n<li>\n<strong>Can I see reviews from other users about the facilities?</strong>\n<p>Yes, we retrieve ratings and reviews from other platforms, such as Google.</p>\n</li>\n\n<li>\n<strong>How is the information about the facilities on the website updated?</strong>\n<p>We strive to keep the information as current as possible. Facility administrators can update their listings, and we regularly monitor and verify the information.</p>\n</li>\n\n<li>\n<strong>Is it possible to add a new racket sports facility to the website?</strong>\n<p>Yes, you can suggest a new facility by contacting us at hello@courtbrain.com.</p>\n</li>\n\n<li>\n<strong>How can I contact a racket sports facility to ask questions or make a booking?</strong>\n<p>Contact information, including phone number and email address, is available on each facility's page.</p>\n</li>\n\n<li>\n<strong>Is it possible to receive notifications about special offers or events at racket sports facilities?</strong>\n<p>Yes, if you subscribe to our newsletter, you can receive information about special offers and events from facilities.</p>\n</li>\n\n<li>\n<strong>Is there a mobile app to use the service?</strong>\n<p>Currently, we offer a mobile-friendly website. However, we will develop a mobile app in the future.</p>\n</li>\n\n<li>\n<strong>What should I do if I encounter problems with the website or have technical questions?</strong>\n<p>Contact our customer service via the provided contact form or support email address to get assistance with any technical questions or issues.</p>\n</li>\n</ul>\n"
+  },
+  "about": {
+    "t5": "One day, as one of the founders grew weary of navigating between different websites to find info about facilities, a lightbulb moment occurred. Why not consolidate all these systems into one? This way, facilities are free to use whichever system they prefer without fear of missing out on potential players. Simultaneously, players can avoid wasting unnecessary time finding their preferred playing slots. It's a Win-Win!",
+    "t3": "Our Story",
+    "t1": "About Courtbrain",
+    "meta_keywords": "courtbrain, about, story",
+    "meta_description": "The story of Courtbrain",
+    "t4": "As racket sports and enthusiasts have grown in number, there has been a surge in effective solutions for booking court time. However, the options are numerous and varied, depending on the facility, sport, country, and city. ",
+    "t2": "CourtBrain is constantly evolving. The version you see today is not the same one you will see tomorrow. New facilities are added every day. Is your favorite missing? Don’t hesitate to contact us, and we will make sure it gets added quickly. New, more advanced features are also under development, and we hope to soon present the final version of CourtBrain - For the player. CourtBrain™ is born out of a passion for ball sports and a strong commitment to making it easier for players to find available venues. The vision is to provide an independent search engine that prioritizes the user, regardless of the platform, location, or booking method they prefer. Striving to create the most flexible, responsive, and seamless solution on the market, with core values serving as the compass for its identity. Independent/impartial, Always putting the user first, being flexible, seamless and versatile.",
+    "title": "About Courtbrain"
+  },
+  "article": {
+    "title": "{seo_title}",
+    "meta_description": "{seo_meta_description}",
+    "meta_keywords": "{seo_meta_keywords}"
+  },
+  "sports": {
+    "meta_description": "Sports",
+    "t1": "Sports",
+    "meta_keywords": "sports",
+    "title": "Sports"
+  },
+  "contact": {
+    "title": "Contact us",
+    "meta_keywords": "contact",
+    "meta_description": "Contact us",
+    "t2": "Send us an e-mail to hello@courtbrain.com",
+    "t1": "Contact"
+  },
+  "component_redirect_button": {
+    "t1": "Book",
+    "t3": "No logo",
+    "t2": "At {name}"
+  },
+  "facilities_city_country_group_sport": {
+    "t1": "{sport} in {city}/{country}",
+    "meta_description": "{sport} in {city}/{country}",
+    "meta_keywords": "{sport}, {city}, {country}",
+    "title": "{sport} in {city}/{country}"
+  },
+  "sport": {
+    "title": "{seo_title}",
+    "meta_keywords": "{seo_meta_keywords}",
+    "meta_description": "{seo_meta_description}"
+  },
+  "component_layout_header": {
+    "t11": "Español",
+    "t10": "FAQ",
+    "t4": "English",
+    "t3": "Language",
+    "t7": "Facilities",
+    "t6": "Address, city, club, amenity",
+    "t1": "",
+    "t8": "About",
+    "t5": "Svenska",
+    "t2": "Articles",
+    "t9": "Contact"
+  },
+  "sitemap_groups": {
+    "meta_keywords": "sitemaps, groups",
+    "title": "Sitemaps for groups",
+    "meta_description": "Sitemaps for groups",
+    "t1": "Sitemaps for groups"
+  },
+  "terms": {
+    "meta_description": "Terms of Service",
+    "title": "Terms of Service",
+    "t2": "<p>Welcome to CourtBrain.com. By using our website, you agree to comply with and be bound by the following Terms of Service. Please read these terms carefully before using our site.</p>\n\n<ul>\n<li>\n<strong>Acceptance of Terms:</strong>\n<p>By accessing or using CourtBrain.com, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree with any part of these terms, please do not use our website.</p>\n</li>\n\n<li>\n<strong>User Responsibilities:</strong>\n<p>Users are responsible for their use of CourtBrain.com and must comply with all applicable laws and regulations.\nUsers are prohibited from engaging in any activity that may disrupt or interfere with the functionality of the website.</p>\n</li>\n\n<li>\n<strong>User obligations:</strong>\n<p>Users agree not to upload, post, or transmit any content that is unlawful, threatening, abusive, defamatory, invasive of privacy, or otherwise objectionable. Users are responsible for maintaining the confidentiality of their account information and are liable for any activities conducted through their account.</p>\n</li>\n\n<li>\n<strong>Intellectual Property:</strong>\n<p>All content on CourtBrain.com, including text, graphics, logos, images, and software, is the property of CourtBrain or its content suppliers and is protected by international copyright laws.</p>\n</li>\n\n<li>\n<strong>Termination of Access:</strong>\n<p>CourtBrain reserves the right to terminate or restrict access to the website, at its sole discretion, for users who violate these Terms of Service.\nCourtBrain may take appropriate legal action against users who engage in activities that violate the law or these terms.</p>\n</li>\n\n<li>\n<strong>Modifications to Terms:</strong>\n<p>CourtBrain reserves the right to modify, amend, or replace these Terms of Service at any time. It is the user's responsibility to check for updates periodically.</p>\n</li>\n\n<li>\n<strong>Governing Law:</strong>\n<p>These Terms of Service are governed by and construed in accordance with the laws of Sweden. Any disputes arising from or in connection with these terms shall be subject to the exclusive jurisdiction of the courts in Sweden.</p>\n</li>\n</ul>\n\n<p>By using CourtBrain.com, you agree to abide by these Terms of Service. If you have any questions or concerns about these terms, please contact us at admin@courtbrain.com. Thank you for using CourtBrain.com.</p>",
+    "t1": "Terms of Service",
+    "meta_keywords": "terms of service"
+  },
+  "component_search_filter_bar": {
+    "t7": "Offers",
+    "t4": "Sports",
+    "t6": "Show less",
+    "t1": "Filter",
+    "t5": "Show all",
+    "t8": "Attributes",
+    "t3": "Show {facilityCount} clubs",
+    "t2": "Clear all",
+    "t9": "Choose time slot"
+  },
+  "component_search_box": {
+    "t1": "Search",
+    "t3": "Locations",
+    "t2": "Facilities"
+  },
+  "facilities_city_country_group_province_sport": {
+    "meta_description": "{sport} in {city}/{country}/{province}",
+    "t1": "{sport} in {city}/{country}/{province}",
+    "meta_keywords": "{sport}, {city}, {country}, {province}",
+    "title": "{sport} in {city}/{country}/{province}"
+  },
+  "facilities_city_country_group_province_facility": {
+    "meta_description": "{seo_meta_description}",
+    "t5": "Sports provided at this club",
+    "t10": "Contact",
+    "t8": "Do you work for this club? Manage this profile page!",
+    "t1": "Find available times at {name}",
+    "t3": "Information",
+    "title": "{seo_title}",
+    "t2": "There is {count} {count, plural, =1 {sport} other {sports}} at this facility",
+    "t4": "This facility offers:",
+    "meta_keywords": "{seo_meta_keywords}",
+    "t7": " courts",
+    "t13": "Instagram",
+    "t11": "Website",
+    "t12": "Facebook",
+    "t6": "Where you will play:"
+  },
+  "component_sitemap_breadcrumb": {
+    "t1": "Home",
+    "t2": "Sitemaps"
+  }
+}

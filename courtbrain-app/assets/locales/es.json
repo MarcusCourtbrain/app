@@ -1,0 +1,278 @@
+{
+  "component_sports_breadcrumb": {
+    "t2": "Deportes",
+    "t1": "Inicio"
+  },
+  "search": {
+    "meta_description": "En esta pagina encuentras los clubes",
+    "t1": "Clubes encontrados",
+    "t2": "En esta pagina encuentras los clubes",
+    "title": "Encuentra clubes",
+    "meta_keywords": "clubes, deportes"
+  },
+  "component_rating": {
+    "t3": "calificación en Google",
+    "t1": "reseñas"
+  },
+  "component_filter_button": {
+    "t1": "Filtrar"
+  },
+  "privacy_policy": {
+    "t2": "<p>En CourtBrain.com, nos comprometemos a salvaguardar la privacidad de nuestros usuarios. Esta Política de Privacidad describe los tipos de datos de usuario que recopilamos, por qué los recopilamos, cómo los utilizamos y las medidas que tomamos para protegerlos.\n</p>\n\n<h4>Tipos de Datos de Usuario Recopilados:</h4>\n\n<ul>\n<li>\n<strong>Direcciones IP:</strong>\n<p>Recopilamos direcciones IP para comprender la ubicación geográfica de nuestros usuarios. Esta información nos ayuda a mejorar la relevancia y accesibilidad de nuestros servicios.</p>\n</li>\n\n<li>\n<strong>Información del Usuario:</strong>\n<p>Cuando los usuarios interactúan con nuestro sitio web, podemos recopilar información como preferencias, configuraciones de idioma y otros datos que mejoran la experiencia del usuario.</p>\n</li>\n</ul>\n\n<h4>Propósito de la Recopilación de Datos:</h4>\n\n<p>Los datos que recopilamos se utilizan para los siguientes fines:</p>\n\n<ul>\n<li>\n<strong>Mejorar la Experiencia del Usuario:</strong>\n<p>Comprender las preferencias del usuario nos ayuda a adaptar nuestros servicios para ofrecer una experiencia más personalizada y amigable.</p>\n</li>\n\n<li>\n<strong>Análisis:</strong>\n<p>Utilizamos los datos recopilados con fines analíticos, lo que nos permite mejorar el rendimiento y la funcionalidad de nuestro sitio web.</p>\n</li>\n</ul>\n\n<h4>Compartir Datos de Usuario con Terceros:</h4>\n\n<p>\nNo compartimos datos de usuarios con terceros a menos que sea requerido por la ley o con el consentimiento explícito del usuario. En caso de asociaciones o colaboraciones, nos aseguramos de que los terceros cumplan con estrictos estándares de protección de datos.\n</p>\n\n<h4>Período de Retención:</h4>\n\n<p>\nRetenemos datos de usuario solo durante el tiempo necesario para cumplir con los propósitos descritos en esta política, a menos que la ley requiera o permita un período de retención más largo.\n</p>\n\n<h4>Medidas de Protección de Datos:</h4>\n\n<p>Para salvaguardar los datos de usuario, implementamos las siguientes medidas:</p>\n\n<ul>\n<li>\n<strong>Almacenamiento Seguro:</strong>\n<p>Los datos de usuario se almacenan de manera segura, utilizando cifrado y controles de acceso para prevenir el acceso no autorizado.</p>\n</li>\n\n<li>\n<strong>Restricciones de Acceso:</strong>\n<p>El acceso a los datos de usuario está restringido solo al personal autorizado, y están obligados por obligaciones de confidencialidad.</p>\n</li>\n\n<li>\n<strong>Auditorías de Seguridad Regulares:</strong>\n<p>Realizamos auditorías de seguridad periódicas para identificar y abordar posibles vulnerabilidades en nuestros sistemas.</p>\n</li>\n\n<li>\n<strong>Educación del Usuario:</strong>\n<p>Educamos a nuestro equipo sobre prácticas de protección de datos para garantizar el manejo responsable de la información del usuario.</p>\n</li>\n</ul>\n\n<p>Revisamos y actualizamos continuamente nuestras prácticas de privacidad para alinearnos con los requisitos legales en evolución y los avances tecnológicos. Al utilizar CourtBrain.com, aceptas los términos descritos en esta Política de Privacidad. Para cualquier pregunta o inquietud sobre tu privacidad, contáctanos en admin@courtbrain.com. Tu privacidad es importante para nosotros, y estamos comprometidos a mantener la confianza y la seguridad de nuestros usuarios.</p>",
+    "title": "Política de Privacidad",
+    "meta_keywords": "Política de Privacidad, usuarios",
+    "meta_description": "Lee sobre nuestra política de privacidad",
+    "t1": "Política de Privacidad"
+  },
+  "component_legal_breadcrumb": {
+    "t1": "Inicio",
+    "t2": "Legal"
+  },
+  "sitemap_facilities": {
+    "meta_description": "Mapa de sitio para instalaciones",
+    "meta_keywords": "Mapa de sitio, instalaciones",
+    "t1": "Mapa de sitio para clubes",
+    "title": "Mapa de sitio para clubes"
+  },
+  "facilities_city_country": {
+    "meta_keywords": "clubes, {city}, {country}",
+    "meta_description": "Clubes en {city}/{country}",
+    "title": "Clubes en {city}/{country}",
+    "t2": "Clubes",
+    "t1": "{city}/{country}"
+  },
+  "component_offers_breadcrumb": {
+    "t2": "Amenidades",
+    "t1": "Inicio"
+  },
+  "offer": {
+    "meta_keywords": "{seo_meta_keywords}",
+    "title": "{seo_title}",
+    "meta_description": "{seo_meta_description}"
+  },
+  "component_layout_searchcontainer": {
+    "t1": "Dirección, ciudad, club",
+    "t2": "Vamos a encontrar tu próxima pista",
+    "t3": "¿Cuál es tu deporte?"
+  },
+  "facilities_city_country_group_province": {
+    "t1": "{province} en {city}/{country}",
+    "title": "{province} en {city}/{country}",
+    "meta_description": "{province} en {city}/{country}",
+    "meta_keywords": "{province}, {city}, {country}"
+  },
+  "component_article_breadcrumb": {
+    "t2": "Articulos",
+    "t1": "Inicio"
+  },
+  "component_facility_missing": {
+    "t2": "Contáctenos",
+    "t1": "¿Falta algún club?"
+  },
+  "not_found": {
+    "t1": "Página no encontrada",
+    "t2": "No se pudo encontrar la página solicitada."
+  },
+  "component_facility_item": {
+    "t2": "Reserva",
+    "t1": "Descubre el club",
+    "t3": "No hay horarios disponibles"
+  },
+  "component_footer": {
+    "t4": "Ayuda",
+    "t3": "Contacto",
+    "t2": "Nosotros",
+    "t5": "Legal",
+    "t6": "Mapa del sitio",
+    "t1": "© 2024 CourtBrain"
+  },
+  "sitemaps": {
+    "t2": "Instalaciones",
+    "t1": "Mapas del sitio",
+    "t3": "Grupos",
+    "meta_keywords": "Mapas del sitio",
+    "meta_description": "Mapas del sitio",
+    "title": "Mapas del sitio"
+  },
+  "component_facilities_breadcrumb": {
+    "t2": null,
+    "t1": "Inicio"
+  },
+  "home": {
+    "meta_description": "Courtbrain es un motor de búsqueda independiente para instalaciones de deportes de raqueta. Encuentra tus pistas favoritas de tenis, pádel, pickleball u otros deportes hoy, sin importar la plataforma de reserva o la ubicación!",
+    "t1": "¡La vida de los jugadores será más sencilla pronto!",
+    "t2": null,
+    "t5": "Noticias & aprendizaje",
+    "t3": "Clubes populares",
+    "meta_keywords": "courtbrain, padel, tenis, pickleball",
+    "t6": "Mientras tanto, ¡explora clubes!",
+    "title": "Encuentra pistas de pádel, tenis o pickleball cerca de ti o en la ubicación deseada.",
+    "t4": "Muestra todo"
+  },
+  "cookies": {
+    "meta_keywords": "\ncookies\n",
+    "title": "Cookies",
+    "meta_description": "Cookies en Courtbrain",
+    "t1": "Cookies",
+    "t2": "<p>En CourtBrain.com, utilizamos cookies y tecnologías similares para mejorar tu experiencia de navegación. Las cookies son pequeños archivos de texto que se almacenan en tu dispositivo cuando visitas nuestro sitio web. Tienen diversos propósitos, y queremos asegurarnos de que tengas una comprensión clara de cómo las utilizamos.</p>\n\n<h4>Propósito de las Cookies:</h4>\n\n<ul>\n<li>\n<strong>Cookies Esenciales:</strong>\n<p>Estas cookies son necesarias para la funcionalidad básica de nuestro sitio web. Permiten que navegues por el sitio y utilices funciones esenciales, como acceder a áreas seguras. Sin estas cookies, algunos servicios pueden no estar disponibles.</p>\n</li>\n\n<li>\n<strong>Cookies Analíticas:</strong>\n<p>Utilizamos cookies analíticas para recopilar información sobre cómo interactúan los visitantes con nuestro sitio web. Esto nos ayuda a analizar y mejorar el rendimiento de nuestro sitio, haciéndolo más fácil de usar. Los datos recopilados son anonimizados y no te identifican personalmente.</p>\n</li>\n\n<li>\n<strong>Cookies de Preferencias:</strong>\n<p>Estas cookies nos permiten recordar tus preferencias y elecciones, como preferencias de idioma o región. Esto garantiza una experiencia de navegación más personalizada y conveniente.</p>\n</li>\n\n<li>\n<strong>Cookies de Marketing:</strong>\n<p>Podemos utilizar cookies de marketing para rastrear y analizar la efectividad de nuestras campañas promocionales. Estas cookies nos ayudan a adaptar nuestro contenido y anuncios para que sean más relevantes para tus intereses.</p>\n</li>\n\n<li>\n<strong>Consentimiento de Cookies:</strong>\n<p>En tu primera visita a CourtBrain.com, se te presentará un banner de cookies. Este banner te brinda la opción de aceptar o rechazar el uso de cookies, en cumplimiento con la legislación aplicable. Puedes gestionar tus preferencias de cookies a través de la configuración de tu navegador en cualquier momento.</p>\n</li>\n</ul>\n\n<p>Ten en cuenta que ciertas funciones de nuestro sitio web pueden depender del uso de cookies. Al elegir aceptar las cookies, aceptas la recopilación y procesamiento de tus datos para los fines mencionados anteriormente.</p>\n\n<p>Para obtener más información sobre cómo manejamos tus datos personales, consulta nuestra Política de Privacidad.</p>\n\n<p>Si tienes alguna pregunta o inquietud sobre nuestro uso de cookies, no dudes en contactarnos en admin@courtbrain.com. Tu privacidad y experiencia en línea son importantes para nosotros, y estamos comprometidos a proporcionar transparencia y control sobre tus datos.</p>"
+  },
+  "component_facility_opening_hours": {
+    "t1": "Cerrado",
+    "t4": "Cierra {time}",
+    "t5": "Abre {time}",
+    "t6": "Cerrado, sin más informacíon",
+    "t3": "Cerrado permanentemente",
+    "t2": "Abierto"
+  },
+  "articles": {
+    "meta_keywords": "articulos",
+    "title": "Nuestros articulos",
+    "meta_description": "Lee articulos en Courtbrain",
+    "t1": "Articulos"
+  },
+  "legal": {
+    "t1": "Legal",
+    "t2": "Aquí encontrarás nuestra información sobre asuntos legales",
+    "t3": "Cookies",
+    "meta_description": "En esta página puedes encontrar documentos legales",
+    "meta_keywords": "legal",
+    "title": "Legal",
+    "t5": "Condiciones",
+    "t4": "Política de Privacidad"
+  },
+  "facilities_group": {
+    "meta_description": "{seo_meta_description}",
+    "title": "{seo_title}",
+    "meta_keywords": "{seo_meta_keywords}",
+    "t1": "{title}"
+  },
+  "offers": {
+    "title": "Amenidades",
+    "meta_description": "Amenidades",
+    "t1": "Amenidades",
+    "meta_keywords": "amenidades"
+  },
+  "component_search_hits": {
+    "t1": "Resultado: {count}"
+  },
+  "support": {
+    "title": "Ayuda FAQ",
+    "meta_description": "\nPreguntas de soporte en Courtbrain",
+    "t1": "Ayuda",
+    "meta_keywords": "soporte, ayuda",
+    "t2": "<ul>\n<li>\n<strong>¿Qué deportes se pueden encontrar en su sitio web?</strong>\n<p>Principalmente, todo tipo de deportes de raqueta, pero también pueden destacarse otros deportes. Adaptamos nuestra plataforma para que las instalaciones puedan exhibir toda su variedad de deportes. Puedes filtrar los resultados según el deporte específico que te interese. Si surge un nuevo deporte de raqueta, CourtBrain estará allí.</p>\n</li>\n\n<li>\n<strong>¿Es posible reservar pistas directamente a través del sitio web?</strong>\n<p>No, CourtBrain no es un sistema de reserva. Algunas instalaciones pueden ofrecer reservas directas a través de su plataforma de reserva, otras a través de su sitio web. Presentamos las opciones de reserva disponibles en la página de la instalación aquí en CourtBrain</p>\n</li>\n\n<li>\n<strong>¿Cómo uso la función de búsqueda para encontrar una instalación de deportes de raqueta?</strong>\n<p>Para buscar una instalación, utiliza la barra de búsqueda y filtra los resultados por deporte, ubicación u otros criterios relevantes.</p>\n</li>\n\n<li>\n<strong>¿Puedo ver reseñas de otros usuarios sobre las instalaciones?</strong>\n<p>Sí, obtenemos calificaciones y reseñas de otras plataformas, como Google.</p>\n</li>\n\n<li>\n<strong>Cómo se actualiza la información sobre las instalaciones en el sitio web?</strong>\n<p>Nos esforzamos por mantener la información lo más actualizada posible. Los administradores de instalaciones nos pueden contactar para actualizar sus listados, y regularmente monitoreamos y verificamos la información.</p>\n</li>\n\n<li>\n<strong>¿Es posible agregar una nueva instalación de deportes de raqueta al sitio web?</strong>\n<p>Sí, puedes sugerir una nueva instalación contactándonos en hello@courtbrain.com.</p>\n</li>\n\n<li>\n<strong>¿Cómo puedo ponerme en contacto con una instalación de deportes de raqueta para hacer preguntas o reservar?</strong>\n<p>La información de contacto, incluyendo el número de teléfono y la dirección de correo electrónico, está disponible en la página de cada instalación.</p>\n</li>\n\n<li>\n<strong> ¿Es posible recibir notificaciones sobre ofertas especiales o eventos en instalaciones de deportes de raqueta?</strong>\n<p>Sí, si te suscribes a nuestro boletín, puedes recibir información sobre ofertas especiales y eventos de las instalaciones.</p>\n</li>\n\n<li>\n<strong> ¿Hay una aplicación móvil para utilizar el servicio?</strong>\n<p>Actualmente, ofrecemos un sitio web compatible con dispositivos móviles. Sin embargo, vamos a desarrollar una aplicación móvil en el futuro.</p>\n</li>\n\n<li>\n<strong> ¿Qué debo hacer si encuentro problemas con el sitio web o tengo preguntas técnicas?</strong>\n<p>Contacta a nuestro servicio de atención al cliente a través del formulario de contacto proporcionado o la dirección de correo electrónico de soporte para obtener ayuda con cualquier pregunta técnica o problema.</p>\n</li>\n</ul>"
+  },
+  "about": {
+    "t5": "Un día, mientras uno de los fundadores se cansaba de navegar entre diferentes sitios web para encontrar pistas disponibles e información sobre clubes, ocurrió un momento de inspiración. ¿Por qué no consolidar todos estos sistemas en uno solo? De esta manera, las instalaciones pueden utilizar el sistema que prefieran sin temor a perderse a posibles jugadores. Al mismo tiempo, los jugadores pueden evitar perder tiempo innecesario buscando sus franjas horarias preferidas. ¡Es un win-win!\n",
+    "t3": "Nuestra historia",
+    "t1": "Sobre CourtBrain",
+    "meta_keywords": "courtbrain, sobre, ",
+    "meta_description": "La historia de Courtbrain",
+    "t4": "A medida que los amantes de los deportes de raqueta han aumentado en número, ha habido un aumento en soluciones efectivas para reservar pistas. Sin embargo, las opciones son numerosas y variadas, dependiendo de la instalación, el deporte, el país y la ciudad.",
+    "t2": "CourtBrain está en constante evolución. La versión que ves hoy no es la misma que verás mañana. Se añaden nuevas instalaciones cada día. ¿Falta tu favorita? No dudes en contactarnos y nos aseguraremos de que se añada rápidamente. También estamos desarrollando nuevas funciones más avanzadas y esperamos presentar pronto la versión final de CourtBrain - For the player.\n\nCourtBrain™ nace de la pasión por los deportes de raqueta y un firme compromiso de facilitar a los jugadores encontrar franjas horarias disponibles. La visión es proporcionar un motor de búsqueda independiente que priorice al usuario, sin importar la plataforma, ubicación o método de reserva que prefieran. Nos esforzamos por crear la solución más flexible, receptiva y sin problemas del mercado, con valores fundamentales que sirven como brújula para nuestra identidad. Independiente/imparcial, Siempre poniendo al usuario primero, ser flexible y versátil.",
+    "title": "Sobre Courtbrain"
+  },
+  "article": {
+    "title": "{seo_title}",
+    "meta_description": "{seo_meta_description}",
+    "meta_keywords": "{seo_meta_keywords}"
+  },
+  "sports": {
+    "meta_description": "Deportes",
+    "t1": "Deportes",
+    "meta_keywords": "deportes",
+    "title": "Deportes"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "meta_keywords": "Contacto",
+    "meta_description": "Contáctenos",
+    "t2": "Envíenos un e-mail a hello@courtbrain.com",
+    "t1": "Contacto"
+  },
+  "component_redirect_button": {
+    "t1": "Reserva",
+    "t3": "Sin logo",
+    "t2": "En {name}"
+  },
+  "facilities_city_country_group_sport": {
+    "t1": "{sport} en {city}/{country}",
+    "meta_description": "{sport} en {city}/{country}",
+    "meta_keywords": "{sport}, {city}, {country}",
+    "title": "{sport} en {city}/{country}"
+  },
+  "sport": {
+    "title": "{seo_title}",
+    "meta_keywords": "{seo_meta_keywords}",
+    "meta_description": "{seo_meta_description}"
+  },
+  "component_layout_header": {
+    "t11": "Español",
+    "t10": "Preguntas frequentes (FAQ)",
+    "t4": "English",
+    "t3": "Idioma",
+    "t7": "Instalaciones",
+    "t6": "Dirección, ciudad, club, amenidad...",
+    "t1": null,
+    "t8": "Nosotros",
+    "t5": "Svenska",
+    "t2": "Articulos",
+    "t9": "Contacto"
+  },
+  "sitemap_groups": {
+    "meta_keywords": "mapas del sitio, grupos",
+    "title": "Mapas del sitio para grupos",
+    "meta_description": "Mapas del sitio para grupos",
+    "t1": "Mapas del sitio para grupos"
+  },
+  "terms": {
+    "meta_description": "Condiciones de Uso",
+    "title": "Condiciones de Uso",
+    "t2": "<p>Bienvenido a CourtBrain.com. Al utilizar nuestro sitio web, aceptas cumplir y estar sujeto a los siguientes Términos de Servicio. Lee atentamente estos términos antes de usar nuestro sitio.</p>\n\n<ul>\n<li>\n<strong>Aceptación de los Términos:</strong>\n<p>\nAl acceder o utilizar CourtBrain.com, reconoces haber leído, comprendido y aceptado quedar sujeto a estos Términos de Servicio. Si no estás de acuerdo con alguna parte de estos términos, por favor, no utilices nuestro sitio web.\n</p>\n</li>\n\n<li>\n<strong>Responsabilidades del Usuario:</strong>\n<p>\nLos usuarios son responsables de su uso de CourtBrain.com y deben cumplir con todas las leyes y regulaciones aplicables. Se prohíbe a los usuarios participar en cualquier actividad que pueda interrumpir o interferir con la funcionalidad del sitio web.\n</p>\n</li>\n\n<li>\n<strong>Obligaciones del Usuario:</strong>\n<p>\nLos usuarios acuerdan no cargar, publicar o transmitir contenido que sea ilegal, amenazante, abusivo, difamatorio, invasivo de la privacidad o de otra manera objetable. Los usuarios son responsables de mantener la confidencialidad de la información de su cuenta y son responsables de cualquier actividad realizada a través de su cuenta.\n</p>\n</li>\n\n<li>\n<strong>Propiedad Intelectual:</strong>\n<p>\nTodo el contenido en CourtBrain.com, incluyendo texto, gráficos, logotipos, imágenes y software, es propiedad de CourtBrain o sus proveedores de contenido y está protegido por las leyes internacionales de derechos de autor.\n</p>\n</li>\n\n<li>\n<strong>Terminación del Acceso:</strong>\n<p>\nCourtBrain se reserva el derecho de terminar o restringir el acceso al sitio web, a su exclusiva discreción, para usuarios que violen estos Términos de Servicio. CourtBrain puede tomar acciones legales apropiadas contra usuarios que participen en actividades que violen la ley o estos términos.\n</p>\n</li>\n\n<li>\n<strong>Modificaciones a los Términos:</strong>\n<p>\nCourtBrain se reserva el derecho de modificar, enmendar o reemplazar estos Términos de Servicio en cualquier momento. Es responsabilidad del usuario verificar actualizaciones periódicamente.\n</p>\n</li>\n\n<li>\n<strong>Ley Aplicable:</strong>\n<p>\nEstos Términos de Servicio están regidos por y se interpretan de acuerdo con las leyes de Suecia. Cualquier disputa derivada de o en conexión con estos términos estará sujeta a la jurisdicción exclusiva de los tribunales en Suecia.\n</p>\n</li>\n</ul>\n\n<p>Al utilizar CourtBrain.com, aceptas cumplir con estos Términos de Servicio. Si tienes preguntas o inquietudes acerca de estos términos, por favor, contáctanos en admin@courtbrain.com. Gracias por usar CourtBrain.com.</p>\n",
+    "t1": "Condiciones de Uso",
+    "meta_keywords": "condiciones de uso"
+  },
+  "component_search_filter_bar": {
+    "t7": "Ofertas",
+    "t4": "Deportes",
+    "t6": "Ver menos",
+    "t1": "Filtros",
+    "t5": "Ver todo",
+    "t8": "Atributos",
+    "t3": "Mostrar {facilityCount} clubes",
+    "t2": "Quitar todo",
+    "t9": "Hora de selección"
+  },
+  "component_search_box": {
+    "t1": "Busca",
+    "t3": "Ubicaciones",
+    "t2": "Clubes"
+  },
+  "facilities_city_country_group_province_sport": {
+    "meta_description": "{sport} en {city}/{country}/{province}",
+    "t1": "{sport} en {city}/{country}/{province}",
+    "meta_keywords": "{sport}, {city}, {country}, {province}",
+    "title": "{sport} en {city}/{country}/{province}"
+  },
+  "facilities_city_country_group_province_facility": {
+    "meta_description": "{seo_meta_description}",
+    "t5": "Deportes ofrecidos en este club",
+    "t10": "Contacto",
+    "t8": "¿Trabajas para este club? ¡Administra esta página de perfil!",
+    "t1": "Encuentra horarios disponibles en {name}",
+    "t3": "Información",
+    "title": "{seo_title}",
+    "t2": "Hay {count} {count, plural, =1 {deporte} other {deportes}} en esta instalación",
+    "t4": "Este club ofrece",
+    "meta_keywords": "{seo_meta_keywords}",
+    "t7": "pistas",
+    "t13": "Instagram",
+    "t11": "Pagina Web",
+    "t12": "Facebook",
+    "t6": "Aqui jugarás"
+  },
+  "component_sitemap_breadcrumb": {
+    "t1": "Inicio",
+    "t2": "Mapas del sitio"
+  }
+}
