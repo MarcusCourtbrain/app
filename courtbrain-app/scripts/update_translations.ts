@@ -19,75 +19,85 @@ if (!admin.apps.length) {
 }
 
 const db = admin.firestore();
-const COLLECTION = "translations";
-const LOCALES_DIR = path.resolve(__dirname, "../assets/locales");
+const TRANSLATIONS_COLLECTION = "translations";
+const LOCALES_DIRECTORY = path.resolve(__dirname, "../assets/locales");
 
 async function updateTranslations() {
-  console.log("Fetching translations from Firestore...");
+  console.log("📥 Fetching translations from Firestore...");
 
-  const translationsSnapshot = await db.collection(COLLECTION).get();
-  const translations = [];
+  const translationsSnapshot = await db
+    .collection(TRANSLATIONS_COLLECTION)
+    .get();
+  const translations: any[] = [];
 
-  for (const doc of translationsSnapshot.docs) {
-    const translation = doc.data();
-    translation.texts = [];
+  for (const translationDoc of translationsSnapshot.docs) {
+    const translationData = translationDoc.data();
+    translationData.texts = [];
 
     const textsSnapshot = await db
-      .collection(`${COLLECTION}/${doc.id}/texts`)
+      .collection(`${TRANSLATIONS_COLLECTION}/${translationDoc.id}/texts`)
       .get();
 
     for (const textDoc of textsSnapshot.docs) {
       let textData = textDoc.data();
       textData = await resolveReferences(textData);
-      translation.texts.push(textData);
+      translationData.texts.push(textData);
     }
 
-    translations.push(translation);
+    translations.push(translationData);
   }
 
-  const prepared = prepareTranslations(translations);
+  const structuredTranslations = structureTranslations(translations);
 
-  if (!fs.existsSync(LOCALES_DIR)) {
-    fs.mkdirSync(LOCALES_DIR, { recursive: true });
-  }
+  ensureLocalesDirectoryExists();
 
-  for (const lang of locales) {
-    const filePath = path.join(LOCALES_DIR, `${lang}.json`);
-    fs.writeFileSync(filePath, JSON.stringify(prepared[lang] || {}, null, 2));
-    console.log(`✅ Written ${filePath}`);
+  for (const language of locales) {
+    const filePath = path.join(LOCALES_DIRECTORY, `${language}.json`);
+    fs.writeFileSync(
+      filePath,
+      JSON.stringify(structuredTranslations[language] || {}, null, 2)
+    );
+    console.log(`✅ Wrote translations for '${language}' to ${filePath}`);
   }
 }
 
-async function resolveReferences(data: any) {
-  const keys = Object.keys(data);
-
-  for (const key of keys) {
-    if (data[key] && data[key]._referencePath) {
-      const ref = db.doc(data[key]._referencePath);
-      const refDoc = await ref.get();
-      data[key] = refDoc.exists ? refDoc.data() : null;
+async function resolveReferences(record: any) {
+  for (const key of Object.keys(record)) {
+    if (record[key] && record[key]._referencePath) {
+      const refDoc = await db.doc(record[key]._referencePath).get();
+      record[key] = refDoc.exists ? refDoc.data() : null;
     }
   }
-
-  return data;
+  return record;
 }
 
-function prepareTranslations(translations: any) {
-  const out: Record<string, Record<string, any>> = {};
+function structureTranslations(translations: any[]) {
+  const output: Record<string, Record<string, any>> = {};
 
   for (const translation of translations) {
-    for (const text of translation.texts) {
-      for (const lang of locales) {
-        if (!out[lang]) out[lang] = {};
-        if (!out[lang][translation.namespace])
-          out[lang][translation.namespace] = {};
+    for (const textEntry of translation.texts) {
+      for (const language of locales) {
+        if (!output[language]) output[language] = {};
+        if (!output[language][translation.namespace]) {
+          output[language][translation.namespace] = {};
+        }
 
-        out[lang][translation.namespace][text.key] = text[lang];
+        output[language][translation.namespace][textEntry.key] =
+          textEntry[language];
       }
     }
   }
 
-  return out;
+  return output;
 }
 
-updateTranslations().catch(console.error);
+function ensureLocalesDirectoryExists() {
+  if (!fs.existsSync(LOCALES_DIRECTORY)) {
+    fs.mkdirSync(LOCALES_DIRECTORY, { recursive: true });
+    console.log(`📁 Created locales directory at ${LOCALES_DIRECTORY}`);
+  }
+}
+
+updateTranslations()
+  .then(() => console.log("🎉 Translation update completed."))
+  .catch((err) => console.error("❌ Failed to update translations:", err));
