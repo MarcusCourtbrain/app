@@ -12,7 +12,8 @@
       "_services/*": ["./services/*"],
       "_constants/*": ["./constants/*"],
       "_types/*": ["./types/*"],
-      "_assets/*": ["./assets/*"]
+      "_assets/*": ["./assets/*"],
+      "@firebase/auth": ["./node_modules/@firebase/auth/dist/index.rn.d.ts"] // Native persistence issue fix.
     }
   },
   "include": [

@@ -1,14 +1,15 @@
 import { View, Text, TouchableOpacity } from "react-native";
-import {
-  appleAuth,
-  googleSignIn,
-  facebookSignIn,
-  emailSignIn,
-} from "_services/authService";
+import { appleAuth, googleSignIn, facebookSignIn } from "_services/authService";
 import styles from "./index.styles";
-import { JSX } from "react";
+import { useRouter } from "expo-router";
 
-export default function LoginScreen(): JSX.Element {
+export default function LoginScreen() {
+  const router = useRouter();
+
+  const handleEmailSignup = () => {
+    router.push("/login/emailSignup");
+  };
+
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Ready to play?</Text>
@@ -30,7 +31,7 @@ export default function LoginScreen(): JSX.Element {
         <Text>or</Text>
       </View>
 
-      <TouchableOpacity style={styles.button} onPress={emailSignIn}>
+      <TouchableOpacity style={styles.button} onPress={handleEmailSignup}>
         <Text style={styles.buttonText}>Continue with Email</Text>
       </TouchableOpacity>
     </View>
